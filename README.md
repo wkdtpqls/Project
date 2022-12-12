@@ -13,7 +13,7 @@ Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 ## :notebook_with_decorative_cover: Table of Contents
 - [Projects](#projects)
 - [Description](#description)
-- [Preview](#website-ui-gallary)
+- [Preview](#preview)
 - [Demo](#demo)
 - [Contributing](#contributing)	
 - [Contact](#contact)
@@ -41,10 +41,10 @@ Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 
 <br>
 
-## Website UI Gallary
+## Preview
 
+![Preview](https://user-images.githubusercontent.com/112832631/206940706-ef407ecf-82dd-4800-b693-073b3413fdcd.png)
 
-![Welcome Tab](https://user-images.githubusercontent.com/112832631/206887730-59c7be18-a8db-41e8-9507-34a5ba44ffe8.png)
 
 <br>
 
