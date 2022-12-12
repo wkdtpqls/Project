@@ -6,7 +6,7 @@
 
 # Mission Project
 반갑습니다!:wave: 아직 배울것이 많은 개발자 지망생 장세빈 입니다<br>
-Bootstap을 활용하여 포트폴리오를 완성하였습니다.
+Bootstrap을 활용하여 부산경상대학교 컴퓨터정보융합과를 소개하는 페이지를 완성하였습니다!
 
 <br>
 
@@ -49,7 +49,7 @@ Bootstap을 활용하여 포트폴리오를 완성하였습니다.
 <br>
 
 ## Demo
-이 포트폴리오의 양식을 보려면 [클릭](https://startbootstrap.com/theme/stylish-portfolio)하세요!
+이 포트폴리오의 양식을 보려면 [클릭]([https://startbootstrap.com/theme/stylish-portfolio](https://bootstrapthemes.co/items/free-bootstrap-templates/))하세요!
 
 <br>
 
